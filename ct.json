@@ -1,0 +1,1932 @@
+{
+    "content": [
+        {
+            "key": "oQGJUQO5xXH7P2oWYNE7e2zfaKhqfSik",
+            "path": "animation_controllers\\amaqhawe\\voidling.animation_controller.json"
+        },
+        {
+            "key": "LAqhabFRX1kwtKfhwPrG41LqxOWZfdRZ",
+            "path": "animation_controllers\\cannon.animation_controller.json"
+        },
+        {
+            "key": "IO2b0xMsgcWECXe4RjWVoM6vNMVKBiMI",
+            "path": "animation_controllers\\cat_morph.animation_controller.json"
+        },
+        {
+            "key": "0qf2R3dpirRsCvSHOMqNzHBhtKJDrQyc",
+            "path": "animation_controllers\\dolphin_morph.animation_controllers.json"
+        },
+        {
+            "key": "Q4peH4LOumA0pYlztyGhdnc6Q7QrofcG",
+            "path": "animation_controllers\\golem_morph.animation_controller.json"
+        },
+        {
+            "key": "EPTtLt8nm7s8zFUNpl7uQ6wz8I3f7a0E",
+            "path": "animation_controllers\\horse.morph.animation.conroller.json"
+        },
+        {
+            "key": "HA6hfHENB7yIafMv8V89CD3ieyRyR9lo",
+            "path": "animation_controllers\\oxitrap.animation_controller.json"
+        },
+        {
+            "key": "D26aD6qQxv9p0d7TEBdCYbVSvXNWpYnD",
+            "path": "animation_controllers\\trap.animation_controller.json"
+        },
+        {
+            "key": "Ovan6C2qVXJwAXSxMBnK7v8OuVx39vuY",
+            "path": "animation_controllers\\walkman\\bank_boy.animation_controller.json"
+        },
+        {
+            "key": "8ATTteeJs9yaIZFDhSNjgHTjOXiA9ALe",
+            "path": "animation_controllers\\walkman\\vendo.animation_controller.json"
+        },
+        {
+            "key": "8h9jr3ttbiOyRDr1JcaE4k06qghH0ado",
+            "path": "animations\\Sucker.animation.json"
+        },
+        {
+            "key": "8sWngMB3Wirs29fiRRuwyCdTDDAiSqkX",
+            "path": "animations\\cannon.animation.json"
+        },
+        {
+            "key": "sWRsK3egsPdxdjXB6cUFF5jaRmNdASk7",
+            "path": "animations\\ent\\roots.animation.json"
+        },
+        {
+            "key": "FImBimaGxUpf3DpMy7FDFl5DNt2ePDHr",
+            "path": "animations\\fireball.animation.json"
+        },
+        {
+            "key": "p99iVl834tbRj3BGzzG37zGWBfjmuVtq",
+            "path": "animations\\histik\\hook.animation.json"
+        },
+        {
+            "key": "nnqJxy5maATuv65UUIcVcBdIIwvrA5ZR",
+            "path": "animations\\item_large.json"
+        },
+        {
+            "key": "0r6h2XDy3cmPOv1Y7yAdwlZJInz3l1YW",
+            "path": "animations\\morphian\\horse_morph.animation.json"
+        },
+        {
+            "key": "j0FyVKt7JxXrpGLXHheO9VHqvU0wbIk6",
+            "path": "animations\\morphian\\look_at_target_morph.animation.json"
+        },
+        {
+            "key": "IjTY8K8lSur7qmglDvySzatp0OILFzjt",
+            "path": "animations\\morphian\\vendo.animation.json"
+        },
+        {
+            "key": "oppgqNr4tYFhQSIT5oMZPf1vngK35H42",
+            "path": "animations\\oxitrap.animation.json"
+        },
+        {
+            "key": "1CCvfwj0TnbfTKxN3AZcSXnlG2HaAyrq",
+            "path": "animations\\tf_player.animation.json"
+        },
+        {
+            "key": "Jjjx0O5WbFs4WatNtQ7UQLWUjgnEh9pT",
+            "path": "animations\\trap.animation.json"
+        },
+        {
+            "key": "mc1DoWH7vL6T3qvZWahvUH01zHj5V2PD",
+            "path": "animations\\voidling.animation.json"
+        },
+        {
+            "key": "76WbjInY1ovu3oXB3Sxa5UpjgDqunTwA",
+            "path": "animations\\walkman\\bank_boy.animation.json"
+        },
+        {
+            "key": "Bp1ptH8tqa5IeDDKZiTND6gra5lC5rIu",
+            "path": "animations\\walkman\\boogie_bomb.animation.json"
+        },
+        {
+            "key": "3VO5T8ILgauokLmuq81kSlPZXUSuYY4R",
+            "path": "animations\\walkman\\disco_ball.animation.json"
+        },
+        {
+            "key": "DqdKPgsr3mkpi9GZq3nxzv1PpGsB4TQS",
+            "path": "attachables\\aslepia.attachable.json"
+        },
+        {
+            "key": "eb8mFs0x3bZCxp4ARDg3x8dc93JwD3jg",
+            "path": "attachables\\ears_def.attachable.json"
+        },
+        {
+            "key": "YyL0ukqiGDFtENQuxtVkLooWIlWwW4RC",
+            "path": "attachables\\fish_t.attachable.json"
+        },
+        {
+            "key": "uOD8mFFV5kbWKL1bMxgHvS8avbbHWWXY",
+            "path": "attachables\\morphian_armor\\cheetah_leggings.json"
+        },
+        {
+            "key": "3n2ZQvpN88IOH7mkq9iLGlgJvoUlqkdt",
+            "path": "attachables\\morphian_armor\\cricket_boots.json"
+        },
+        {
+            "key": "jOVJgkHC0jNkKAnCSmdgHX6YM8Y4jIVN",
+            "path": "attachables\\morphian_armor\\cuttlefish_chestplate.json"
+        },
+        {
+            "key": "Rkf8jPvPCwnf9cLkFs7nEWIYmw7rUbmt",
+            "path": "attachables\\morphian_armor\\ramrock_helmet.json"
+        },
+        {
+            "key": "mcZ8vYzuicRFpbKpc3Pl5jnsh9slkrDw",
+            "path": "attachables\\shades.json"
+        },
+        {
+            "key": "S3NUcl6mDGsMHBfbftQDyt3jsouOmHAb",
+            "path": "attachables\\umbrella.attachable.json"
+        },
+        {
+            "key": "tRPAtL1n0SFtRfrxaobMwG1aH9b3wKhp",
+            "path": "biomes_client.json"
+        },
+        { "key": "oncia7buFh683ykaQAv37yiTYx5hsqh4", "path": "blocks.json" },
+        {
+            "key": "BIoFR7c7FDXgCIiV5FozF2DCTOT0CILg",
+            "path": "bubble_projectile.json"
+        },
+        {
+            "key": "y1ZVH7DwZdPGsWCIvPDurRBWRJFN8fEG",
+            "path": "entity\\amaqhawe\\voidling.json"
+        },
+        {
+            "key": "D5MlGSNzsXWaWiK6MRfq9lt9xH6n7lv3",
+            "path": "entity\\ent\\root.json"
+        },
+        {
+            "key": "hRInRe8eBkXmugqnmh4qneqI5cImLwo6",
+            "path": "entity\\externalItems\\atlar\\bubble_blower.entity.json"
+        },
+        {
+            "key": "m8DNHvtv26m9XHD11Ib0GYjm9cmPbjXS",
+            "path": "entity\\externalItems\\atlar\\cannon_ball_water.entity.json"
+        },
+        {
+            "key": "chjJO99rPDd7aNWWumCLDZNgmlkByZ3C",
+            "path": "entity\\externalItems\\atlar\\water_bomb.entity.json"
+        },
+        {
+            "key": "pKGzhs1WxdTWJ4wEm3QTXP7UwGWpJ3ZJ",
+            "path": "entity\\externalItems\\dark_elf\\gravity_bomb.entity.json"
+        },
+        {
+            "key": "9WZncgolTpdU6bsC9dDjWbAbaZ3nNsvA",
+            "path": "entity\\externalItems\\elf\\aslepia_munition.entity.json"
+        },
+        {
+            "key": "LlZbpQpwJL7reeFBl3GJHbIqM92yJ8dW",
+            "path": "entity\\externalItems\\ent\\banana_bomb_dummy.json"
+        },
+        {
+            "key": "rujcI2PuKicCCyBnhkiW5XStR2xB44DJ",
+            "path": "entity\\externalItems\\ent\\banana_bumb.entity.json"
+        },
+        {
+            "key": "9YST5rh6vgRm1Dwdnx3Ckl4LbbH0ZlSc",
+            "path": "entity\\externalItems\\ent\\banana_particle.entity.json"
+        },
+        {
+            "key": "hZOiXDMp1LnSH4qe6ltFfn641Ax4Xe9L",
+            "path": "entity\\externalItems\\ent\\ivy_large.json"
+        },
+        {
+            "key": "5bT5aOxGn9dnfHGk4zfy7LB4QOZoVAPv",
+            "path": "entity\\externalItems\\frieka\\cannon.entity.json"
+        },
+        {
+            "key": "TL9aVkKS8w3ghGlyzeTU6KkW5hrio7kD",
+            "path": "entity\\externalItems\\frieka\\cannon_ball_heavy.entity.json"
+        },
+        {
+            "key": "UhxFqoYKIIadTr2NWJ8jpaByogzRnHtU",
+            "path": "entity\\externalItems\\histik\\bombs.entity.json"
+        },
+        {
+            "key": "6wEhgZKkuunrg0onznlJfCvRviUfrV39",
+            "path": "entity\\externalItems\\histik\\bombs_dummy.json"
+        },
+        {
+            "key": "44nEfgpKm5hBJV9GFYrYi9t6TYrIjvdK",
+            "path": "entity\\externalItems\\histik\\hook.json"
+        },
+        {
+            "key": "mI7wSPcTIh3zmyiGUB3gNHu7enGl96d8",
+            "path": "entity\\externalItems\\inferny\\cannon_ball_fire.entity.json"
+        },
+        {
+            "key": "iI2cKLTqWseEwRid3zJWWdijY8qE4Evy",
+            "path": "entity\\externalItems\\inferny\\fire_bomb.json"
+        },
+        {
+            "key": "G2dYbOM3cchFcTkWthCgz0dTgEkcqJS2",
+            "path": "entity\\externalItems\\lesion\\septic_nade.entity.json"
+        },
+        {
+            "key": "NyDZoO5FZIbMc4wKL0N7hlmPC0KI4frU",
+            "path": "entity\\externalItems\\skellig\\bola.entity.json"
+        },
+        {
+            "key": "bGXb9e3b2lb0u3D50uWqaVlZpXlK7ksP",
+            "path": "entity\\externalItems\\walkman\\bank_boy.entity.json"
+        },
+        {
+            "key": "wunb5a0T5IJMsJcY9Kby9Cm7JApq0B3p",
+            "path": "entity\\externalItems\\walkman\\oxitrap.entity.json"
+        },
+        {
+            "key": "qkJAGUxfCtLaf0BmiovpEqqkRes6WqlT",
+            "path": "entity\\externalItems\\walkman\\trap.entity.json"
+        },
+        {
+            "key": "OB6XJxEtKbzdKy4b0wXteKhCXMwNFBY7",
+            "path": "entity\\externalItems\\walkman\\vendo.entity.json"
+        },
+        {
+            "key": "Aor0Gr6XNS3UhX2QeJimMtpGof3k5BFC",
+            "path": "entity\\land_claim\\land_claim.json"
+        },
+        {
+            "key": "JD2zqCdzzlgqATsyzleN6N4bPnTFqK53",
+            "path": "entity\\misc\\fireball.json"
+        },
+        {
+            "key": "YQZVNbujOGhnXxbMXd1yjHyJSATwxShO",
+            "path": "entity\\misc\\note.json"
+        },
+        {
+            "key": "61wjgU110LnMD4yqKkMzKvUFe2ch7WNg",
+            "path": "entity\\misc\\ping_projectile.json"
+        },
+        {
+            "key": "8HUGrtn3mtUMaqgY2FP3iPNSwR049plA",
+            "path": "entity\\misc\\shop.json"
+        },
+        {
+            "key": "rIw6OeidiOyaTSiDdiJX4h1T05tawAL6",
+            "path": "entity\\misc\\sucker.json"
+        },
+        {
+            "key": "T4H0HLO0GIsUJENUF0THezd3DrkNmImF",
+            "path": "entity\\misc\\vomit_projectile.json"
+        },
+        {
+            "key": "sk4vtD6EnTfADN1rTPpXgYTBj0sZq2k4",
+            "path": "entity\\misc\\wall.json"
+        },
+        {
+            "key": "e74cLwlNdslLMKF2tyhuRsCl9HEA5Djy",
+            "path": "entity\\player.entity.json"
+        },
+        {
+            "key": "qSEWD8cxIuVpfeFUgVYZG1TmF4SeSCbu",
+            "path": "entity\\walkman\\boogie_bomb.json"
+        },
+        {
+            "key": "yOM3jmyKVmBCqU5St3ZQekN0zExVU3ys",
+            "path": "entity\\walkman\\boombox.json"
+        },
+        {
+            "key": "aVjd3gUv5qlMgpOnh1VF7hMmkLdcEq4i",
+            "path": "entity\\walkman\\disco_ball.json"
+        },
+        {
+            "key": "oNAIzB2ZHspMhoorlU7NZLdPqkajENl3",
+            "path": "fogs\\atlar_water.json"
+        },
+        {
+            "key": "66llzHMMziPATwpLhEfbgqooBA3b9iWU",
+            "path": "fogs\\darkened_0.json"
+        },
+        {
+            "key": "mAU5xjOjhTvVmW0CgphQgJfvdK65DkBw",
+            "path": "fogs\\darkened_1.json"
+        },
+        {
+            "key": "06hx9VJw1JL7bVWgiUUejpTHffc0LEU4",
+            "path": "fogs\\darkened_2.json"
+        },
+        {
+            "key": "WqlgmQbe8V66vuU7JJCW3dQRbsSg7TFA",
+            "path": "font\\glyph_E2.png"
+        },
+        {
+            "key": "cccthaXlB2B1m4owul0T7wUonBsZJgdY",
+            "path": "font\\glyph_E4.png"
+        },
+        { "key": "S5sK6bqIHqUeXO5Ft15WXNsywdXBt26D", "path": "manifest.json" },
+        {
+            "key": "FPgZ0reCy5blqvj2OpzAjr45TilYw5AK",
+            "path": "models\\blocks\\collectable.geo.json"
+        },
+        {
+            "key": "qDSF7x7dx93Y81PXjc7RsOM5AzaXat8c",
+            "path": "models\\blocks\\elastic_cauldron.geo.json"
+        },
+        {
+            "key": "a1vAYf20TCMeuRig8fx0yeUHSYoSFCbb",
+            "path": "models\\blocks\\elastic_cauldron_1.geo.json"
+        },
+        {
+            "key": "U8iotolQ5p6OF0zEFEyLEgbWkmjTmn9m",
+            "path": "models\\blocks\\elastic_cauldron_2.geo.json"
+        },
+        {
+            "key": "eLP24V7lVaXckdYngIczmXxrKWDsyU58",
+            "path": "models\\blocks\\elastic_cauldron_3.geo.json"
+        },
+        {
+            "key": "LKLBvOQ4c6bnvHdurbKNc5ScQJTUD0YU",
+            "path": "models\\blocks\\elastic_cauldron_4.geo.json"
+        },
+        {
+            "key": "OBq4emwp9xiNnluSMRaJqIjvhGLE3BBX",
+            "path": "models\\blocks\\nexus.geo.json"
+        },
+        {
+            "key": "QgX1EKoB5rjisyEbcnR4jkSYN2QfV6yl",
+            "path": "models\\blocks\\repair_anvil.geo.json"
+        },
+        {
+            "key": "rqwKJlRzd3C9kTJIukIZhBNGUAiYhq00",
+            "path": "models\\blocks\\vomit.geo.json"
+        },
+        {
+            "key": "zqcZpDuvbZHxzAONjSYKDgEPlVGb9VPK",
+            "path": "models\\entity\\amaqhawe\\shades.geo.json"
+        },
+        {
+            "key": "0zBhy9irF9AH1FkK8ZCh2EAwEutRA3OC",
+            "path": "models\\entity\\amaqhawe\\voidling.geo.json"
+        },
+        {
+            "key": "d2jMxzwbzGBcWLDdrIIFb9zLmILqvyzq",
+            "path": "models\\entity\\atlar\\bubble.geo.json"
+        },
+        {
+            "key": "0qNYDTrHRyJefwoDbL96IKRWOUk7KUCT",
+            "path": "models\\entity\\atlar\\sucker.geo.json"
+        },
+        {
+            "key": "Q0ResIU3C5HUHi5CWr7iBjxDb8W88YD6",
+            "path": "models\\entity\\attachable\\ear_defenders.geo.json"
+        },
+        {
+            "key": "XgnfILmIlwWqmj3UMiMPTG4SmLCL9Mw5",
+            "path": "models\\entity\\attachable\\fish_t.geo.json"
+        },
+        {
+            "key": "CyUafUNAZSRfX8DjryVXGDqyOeWgzayP",
+            "path": "models\\entity\\attachable\\umbrella.geo.json"
+        },
+        {
+            "key": "Q35JRLXOw0BoIT7tfHaqpTaEIwq260xe",
+            "path": "models\\entity\\cannon.geo.json"
+        },
+        {
+            "key": "GZIAvF8ylJoVcwRZXxum62na3qu4ImKD",
+            "path": "models\\entity\\elf\\wall.geo.json"
+        },
+        {
+            "key": "Q8zAEbbvj6S1N3EoSUwFK1hmDlRuJEoc",
+            "path": "models\\entity\\ent\\roots.geo.json"
+        },
+        {
+            "key": "rBw1rrw2fpsTgepGGPYrM4yVWkFmqK7J",
+            "path": "models\\entity\\externalItems\\Ent\\banana.geo.json"
+        },
+        {
+            "key": "viuBV8D1ZmvTqWL0awadTTmPEbUbS95t",
+            "path": "models\\entity\\externalItems\\Ent\\banana_particle.geo.json"
+        },
+        {
+            "key": "tbHfszq5YKpMGCs8NPKNsordSlYW7ZQL",
+            "path": "models\\entity\\externalItems\\Histik\\hook.geo.json"
+        },
+        {
+            "key": "ZZnuPiKcmlO1ec9iE5dCmUg8IDA5OpMp",
+            "path": "models\\entity\\externalItems\\Walkman\\bank_boy.geo.json"
+        },
+        {
+            "key": "cJhHIGEoMAG7gDU4GYwaWm8W0l2GDqPl",
+            "path": "models\\entity\\externalItems\\Walkman\\boogie_bomb.geo.json"
+        },
+        {
+            "key": "hqLj85PzrPmmS4b1GmiVkjW1xhcHKcdW",
+            "path": "models\\entity\\externalItems\\Walkman\\vendo.geo.json"
+        },
+        {
+            "key": "VEZmOsw20JrxWEDu1f6cRM6JuWtriJdZ",
+            "path": "models\\entity\\fireball.geo.json"
+        },
+        {
+            "key": "nnp7BBJitn5wBFuZfHjGykIOgxpqXnjh",
+            "path": "models\\entity\\item_large.geo.json"
+        },
+        {
+            "key": "f6PC6JChcmG5yh1pQK1smKTlicUdChaB",
+            "path": "models\\entity\\item_sprite.geo.json"
+        },
+        {
+            "key": "zGagLAZmz0S9TRkQVLIZ5xrw0LOI2Vfr",
+            "path": "models\\entity\\morphian\\armor\\bandicoot_boots.geo.json"
+        },
+        {
+            "key": "MQsvyJpkHmiLrnNIJ6FQwzwYkIkaHxsU",
+            "path": "models\\entity\\morphian\\armor\\cheetah_leggings.geo.json"
+        },
+        {
+            "key": "3uYRa3tTtlwVOafS3OJSag3jQyeXngyG",
+            "path": "models\\entity\\morphian\\armor\\cuttlefish_chestplate.geo.json"
+        },
+        {
+            "key": "FcmpPWgvsZV0V9zJdN6KCPqzfk5O3wo7",
+            "path": "models\\entity\\morphian\\armor\\ram_helmet.geo.json"
+        },
+        {
+            "key": "g862ZyDBB0iu2HyOZztzuLPTnHfidFgk",
+            "path": "models\\entity\\morphian\\axolotl_morph.geo.json"
+        },
+        {
+            "key": "6EuywigolzTN6onGFh5FHHnCD97lrY5u",
+            "path": "models\\entity\\morphian\\cat_morph.geo.json"
+        },
+        {
+            "key": "04BrLvi90LFV97q6lq0sXYG3vr6Dqtm0",
+            "path": "models\\entity\\morphian\\chicken_morph.geo.json"
+        },
+        {
+            "key": "yD0PcTzM5iILuCoNVXnZJX1aZdsPW8EB",
+            "path": "models\\entity\\morphian\\cod_morph.geo.json"
+        },
+        {
+            "key": "TzFYqqu6jWRTO9e81jd8isDdeEVPzcTp",
+            "path": "models\\entity\\morphian\\cow_morph.geo.json"
+        },
+        {
+            "key": "Bd6554Bvy6TCs9iiTcW9IHiliu2bleXO",
+            "path": "models\\entity\\morphian\\creeper.v1.0_morph.geo.json"
+        },
+        {
+            "key": "aTf8TA8IOfZ5fgrRmPuLeDNhvVvEtOHZ",
+            "path": "models\\entity\\morphian\\fox_morph.geo.json"
+        },
+        {
+            "key": "dwiLAY9NxdkhCFW1gbE1hJPb59CSgw6t",
+            "path": "models\\entity\\morphian\\horse_v3_morph.geo.json"
+        },
+        {
+            "key": "4su9SSCPobuqfO8VRMuiE1SPhLkcsvKe",
+            "path": "models\\entity\\morphian\\panda_morph.geo.json"
+        },
+        {
+            "key": "VxOuJikqR3nBYpYxdXVbh0s3UNor5yxs",
+            "path": "models\\entity\\morphian\\pig_morph.geo.json"
+        },
+        {
+            "key": "nqJMeCkoQ6HvBwfBKCKmksHnvs0SBDJr",
+            "path": "models\\entity\\morphian\\strider_morph.geo.json"
+        },
+        {
+            "key": "yChT8uAs1qyp40D8LQEGq2S9tzvvSxEB",
+            "path": "models\\entity\\morphian\\vex_morph.geo.json"
+        },
+        {
+            "key": "VVkCQrfFxo24xQFBeQp5kc9M381uGrV5",
+            "path": "models\\entity\\oxitrap.geo.json"
+        },
+        {
+            "key": "S9cUM3QMJLixRNjjI6E1was1FeNvizn5",
+            "path": "models\\entity\\shops\\amaqhawe.geo.json"
+        },
+        {
+            "key": "wWSpTJwOXLRDye5TTHpziGUYEjt1payU",
+            "path": "models\\entity\\shops\\atlar.geo.json"
+        },
+        {
+            "key": "pXBK5BE39sl4tj9yLFyJvTMB1wp5jyqm",
+            "path": "models\\entity\\shops\\dark_elf.geo.json"
+        },
+        {
+            "key": "kxWbO9rIZUmUhZVyCqBQbqAXyhr20GGW",
+            "path": "models\\entity\\shops\\elf.geo.json"
+        },
+        {
+            "key": "Vb1nce3Jje3dZFZPJn1wIPUGbdTbdFBF",
+            "path": "models\\entity\\shops\\ent.geo.json"
+        },
+        {
+            "key": "9ecQSNFCre55BT5BKKKCff3c2TjZf0LM",
+            "path": "models\\entity\\shops\\frieka.geo.json"
+        },
+        {
+            "key": "yyBIzU0EOozSoscL9MyGKPd1lIpy6pMD",
+            "path": "models\\entity\\shops\\histik.geo.json"
+        },
+        {
+            "key": "GfCNDjEVMIBQOJX3R8CLxrmrxwlUR26K",
+            "path": "models\\entity\\shops\\inferny.geo.json"
+        },
+        {
+            "key": "yyVMKzHO738mOIUWJ0hzzbySvxODdQcI",
+            "path": "models\\entity\\shops\\lesion.geo.json"
+        },
+        {
+            "key": "yLbJq0icZDyj9B0gxCdve6lZ0eQo0Z1q",
+            "path": "models\\entity\\shops\\morphian.geo.json"
+        },
+        {
+            "key": "uLxYM1qFhB9NyBkaplPfubKBJfaVztVA",
+            "path": "models\\entity\\shops\\skellig.geo.json"
+        },
+        {
+            "key": "nolzXISJmhIeqyt751k1Rh9VK5lhZMQ4",
+            "path": "models\\entity\\shops\\walkman.geo.json"
+        },
+        {
+            "key": "rmz9PV0qCuesljAIYjf02zHGBpjpeVsC",
+            "path": "models\\entity\\trap.geo.json"
+        },
+        {
+            "key": "xM9M2fRx7RisDIzwWjpUF35TUZbhqsRn",
+            "path": "models\\entity\\walkman\\boombox.geo.json"
+        },
+        {
+            "key": "clOOOO0g05BnSUTgbD9fMz61RLLPBT6o",
+            "path": "models\\entity\\walkman\\disco_ball.geo.json"
+        },
+        {
+            "key": "9gJTRxKjYn9GV0TcGYaHC81aAt5CSyr4",
+            "path": "models\\entity\\walkman\\note.json"
+        },
+        {
+            "key": "899ZFKwxln6HtSt0VSyarC78MUbOdevR",
+            "path": "models\\entity\\water_bomb.geo.json"
+        },
+        {
+            "key": "SMxhUo6hIGdA7zN9n2dgXWCX2xicJcTe",
+            "path": "models\\entity\\wearable\\atlar\\fin.geo.json"
+        },
+        {
+            "key": "Yfew4A5FyRTgEoVVRzwg0XJs8KP9IAS0",
+            "path": "models\\entity\\wearable\\claws.geo.json"
+        },
+        {
+            "key": "X27Lu8HTEWHNYVreEKbOuWtKCy1MiP6g",
+            "path": "models\\entity\\wearable\\dark_elf\\horns.geo.json"
+        },
+        {
+            "key": "8h0CjvT09Px53LjpkZlGezlffHJE1kd3",
+            "path": "models\\entity\\wearable\\elf\\ears.geo.json"
+        },
+        {
+            "key": "wj0fyNEWES5ZPJ92hfBjlOmgTBpfAcGS",
+            "path": "models\\entity\\wearable\\elf\\sakura.geo.json"
+        },
+        {
+            "key": "1cGUv0yKKifedfht0GiQFGuXykYHjwCq",
+            "path": "models\\entity\\wearable\\ent\\dead_tree.geo.json"
+        },
+        {
+            "key": "DO9omp4EiyyqGLyTuha60EddpGmInE0M",
+            "path": "models\\entity\\wearable\\ent\\sakura.geo.json"
+        },
+        {
+            "key": "ycoQAPv96Sd9VJzekTKYPkZS1uPp1u4u",
+            "path": "models\\entity\\wearable\\ent\\spruce_tree.geo.json"
+        },
+        {
+            "key": "rVuWZWR0bGTX2eBxJfr1xZZfNVtYm014",
+            "path": "models\\entity\\wearable\\ent\\tree.geo.json"
+        },
+        {
+            "key": "sD6T4o97ztj3iD7HbJBF8FwVTDu7toFm",
+            "path": "models\\entity\\wearable\\ghoul\\ghoul_flesh.geo.json"
+        },
+        {
+            "key": "4yoU3JXa0foDkFCILFxz7zZXgE2n50S1",
+            "path": "models\\entity\\wearable\\ghoul\\parasite.geo.json"
+        },
+        {
+            "key": "f6doh5LzKXKSveGPgQYkmFHoP5SvFXPr",
+            "path": "models\\entity\\wearable\\ghoul\\spine.geo.json"
+        },
+        {
+            "key": "wKx1LVP6DPLnIyJnPq2hWH8fUMhXp2D0",
+            "path": "models\\entity\\wearable\\morphian\\morphian_tail.geo.json"
+        },
+        {
+            "key": "7gJMMwWmOzl7L5k1sSE1ZJtRtVBK16Bx",
+            "path": "models\\entity\\wearable\\walkman\\speaker.geo.json"
+        },
+        { "key": "LZH1DtzYjLw9WYOtdXukNVVHxFiZMhJa", "path": "pack_icon.png" },
+        {
+            "key": "ybarKXHPep8QkgnbYqv6kymF9dlYjV56",
+            "path": "particles\\atlar\\water_bomb\\cloud.particle.json"
+        },
+        {
+            "key": "03Rn5gpJWmTgXkP8bNQIkMt8Lr1fiVwm",
+            "path": "particles\\atlar\\water_bomb\\rain_single.particle.json"
+        },
+        {
+            "key": "nXneqT7pBHxt36zyosdlSe2LATkOkeoW",
+            "path": "particles\\blood_splash.particle.json"
+        },
+        {
+            "key": "iPHalFF2dIWnlloyMrCck1KQlC0KqqzJ",
+            "path": "particles\\dark_elf\\crimson_arrow.particle.json"
+        },
+        {
+            "key": "K52UotKVznKLMDQJ5F1ruKmJITKvxn5N",
+            "path": "particles\\dark_elf\\crimson_jump.particle.json"
+        },
+        {
+            "key": "FLa196TU8Q97H2TrsE46H5CLmrkVbXqF",
+            "path": "particles\\dark_elf\\inferno2.png"
+        },
+        {
+            "key": "kuGsVPRTfYiUXFJ8oMEHDRHxITiua9Fd",
+            "path": "particles\\dark_elf\\king_crimson2.png"
+        },
+        {
+            "key": "x5Zgb6Zm2VWRAQoP20hTeiWZXbjOD1Nn",
+            "path": "particles\\dark_elf\\wave.png"
+        },
+        {
+            "key": "CWRK7amWNbLurRdnxD6hLqJO8qtCbMK2",
+            "path": "particles\\histik\\confetti.json"
+        },
+        {
+            "key": "XHQKVZthrNwBa3WfJQnQyVegfJzCqZoq",
+            "path": "particles\\histik\\confetti.png"
+        },
+        {
+            "key": "pPEn409woxUSmZbE4qTo6cUKbOlj94fs",
+            "path": "particles\\histik\\land.particle.json"
+        },
+        {
+            "key": "jRjt4CrqEsTxEycyU91nN4jVL0Se7y61",
+            "path": "particles\\histik\\laugh.png"
+        },
+        {
+            "key": "PUXSBBC17synwM6sMAGHDZMcBff7gWnI",
+            "path": "particles\\histik\\maniac_laugh.particle.json"
+        },
+        {
+            "key": "7TUnu0uWFELbRkJY4r5x1cf8z5lft7KY",
+            "path": "particles\\inferny\\circle_nova_main.particle.json"
+        },
+        {
+            "key": "wDz5mNXuSx0k1PlBukdrDk6Z940e4Ss6",
+            "path": "particles\\inferny\\circle_nova_sidekick.particle.json"
+        },
+        {
+            "key": "JG6v88rnGInsmvInZEuqXmYlkVc7dlbK",
+            "path": "particles\\inferny\\ember.particle.json"
+        },
+        {
+            "key": "3gIob9ZbCPsQEYa7wAaOHrjWGSAHr74A",
+            "path": "particles\\inferny\\fire_impulse.particle.json"
+        },
+        {
+            "key": "ulC9L6CqxvzFHAioNITA8G7StG7uOBxQ",
+            "path": "particles\\lesion\\trail.particle.json"
+        },
+        {
+            "key": "WDHToHgB8dJPCZRVRXuicyEduRpDepaX",
+            "path": "particles\\lesion\\vomit_particle.particle.json"
+        },
+        {
+            "key": "cSvt3kTn4qDkdHshKkzPxHYYh0ZKYxGF",
+            "path": "particles\\misc\\line.particle.json"
+        },
+        {
+            "key": "zPNuDuDwmYiNqghVwBD72gKeq2lQwoaL",
+            "path": "particles\\misc\\line_single.particle.json"
+        },
+        {
+            "key": "L0aDTBRaYDHlUSdRABXOEMwADPgkupRg",
+            "path": "particles\\morphian\\pink_cloud.particle.json"
+        },
+        {
+            "key": "l77QvTbjgpsOk1DM4CfrKEZF6l5pnHmf",
+            "path": "particles\\morphian\\pink_shine.png"
+        },
+        {
+            "key": "0pzgH9UTdUBNBLJVANSesQYvo5B45qbN",
+            "path": "particles\\morphian\\pink_spark.particle.json"
+        },
+        {
+            "key": "w3PCkYE0V3g7dqJX5R59MiwsVEkRcWdK",
+            "path": "particles\\shadow_bomb.particle.json"
+        },
+        {
+            "key": "qDxyAA9MWWG794K4RaR5jpynXMvct3oy",
+            "path": "particles\\shared\\inferno3.png"
+        },
+        {
+            "key": "RB11OTBJz5euhikerMumFdNfJCbUJ9cv",
+            "path": "particles\\smoke.particle.json"
+        },
+        {
+            "key": "zC9pac91JXfFC2lZNVAn8nTwrsESu10X",
+            "path": "particles\\soulFlame.particle.json"
+        },
+        {
+            "key": "O3RvvPpW7KsiJy6qgziTvvpTE3ha82oI",
+            "path": "particles\\steam_cloud.particle.json"
+        },
+        {
+            "key": "M8gEkMPBdnWNRkpRcUUi8OYpPv7eaohf",
+            "path": "particles\\voidling.partilce.json"
+        },
+        {
+            "key": "pfqJpbkAWBK2Wd7Oge6dLDnddytmzEGe",
+            "path": "particles\\walkman\\disco_beam.particle.json"
+        },
+        {
+            "key": "zLhNS68vbiM1WmXmtbmMyv9f4Yeu1Bdk",
+            "path": "particles\\water_suck.particle.json"
+        },
+        {
+            "key": "zFEMcRloDp0pLRUF7sNGIH1RFAO1oppn",
+            "path": "particles\\wind.particle.json"
+        },
+        {
+            "key": "TKikJcrb3d8H8KioditZSUrhrfRxzTIa",
+            "path": "particles\\wind_wall.particle.json"
+        },
+        {
+            "key": "LPIKZqkkARp4vmLyEvtHsPxoEWR4EfyI",
+            "path": "render_controllers\\armor.render_controllers.json"
+        },
+        {
+            "key": "Z6HLATV0re71ozDKwatgjqUJbXtliny2",
+            "path": "render_controllers\\aslepia.render_controllers.json"
+        },
+        {
+            "key": "rwkNHRBZlcTJCSgSReYuJo5rWYHe3FZe",
+            "path": "render_controllers\\player.render_controllers.json"
+        },
+        {
+            "key": "m24NVtoAo6kq8Gi3gsUwctF3fulchDMk",
+            "path": "render_controllers\\shop.render_controllers.json"
+        },
+        {
+            "key": "T9sBAB4ijEemwb63npBqs7cfoo8fQHQD",
+            "path": "sounds\\sound_definitions.json"
+        },
+        {
+            "key": "euWarqkVKsBBKenBbP2bNkkmHpnGv0Mk",
+            "path": "sounds\\veteran_levelup.ogg"
+        },
+        {
+            "key": "xgsjAdUZBFOrgHDYQvvWPnzSU1I2DzcB",
+            "path": "sounds\\walkman_battle.ogg"
+        },
+        {
+            "key": "hPSRfuuYSLzQKQlBSZcgVSxBrTxvr57i",
+            "path": "sounds\\walkman_cook_up.ogg"
+        },
+        {
+            "key": "cjEFIJ1EA71emsQgTE7P2JtRFyVqC2bV",
+            "path": "sounds\\walkman_heal.ogg"
+        },
+        {
+            "key": "sbrRU9gkPbNZuc9HuglfZyuz7hW2Cwiz",
+            "path": "sounds\\walkman_levelup.ogg"
+        },
+        {
+            "key": "D3FwieQa84lYSFIHufprNDTrh0Vx7BPH",
+            "path": "sounds\\walkman_push_away.ogg"
+        },
+        { "key": "1WkYMJ1yo0ThMw4fWnI1Pl8eFFUtAlUK", "path": "sounds.json" },
+        {
+            "key": "FtSRhMR9BNHxEd13AF1k8nu4zIpGqSA2",
+            "path": "texts\\en_US.lang"
+        },
+        {
+            "key": "KsLbQxGESGGCjtCuzU2rgjHBza76EZCx",
+            "path": "texts\\languages.json"
+        },
+        {
+            "key": "SDM21tdVTvgLspseIn88g49akPN2pKGe",
+            "path": "textures\\blocks\\black.png"
+        },
+        {
+            "key": "zxfJZjaylLtrSwR5XyIdO6yLFItNqq2j",
+            "path": "textures\\blocks\\blank.png"
+        },
+        {
+            "key": "IuHuJPy1wKtynOgerxOovqI77gAFm2mL",
+            "path": "textures\\blocks\\dense_stone.png"
+        },
+        {
+            "key": "K6cosTFz5yzejZkIgXAZaFb0tsmBJ6ea",
+            "path": "textures\\blocks\\marshmallow_flow.png"
+        },
+        {
+            "key": "PsHXZ4AltmMZ01oSdETWSkgYoKIBJw5h",
+            "path": "textures\\blocks\\nexus.png"
+        },
+        {
+            "key": "eZDoO8FgBd7xj7OMKdP8MUMNRPe8VvlU",
+            "path": "textures\\blocks\\repair_anvil.png"
+        },
+        {
+            "key": "546msEownvUVC3Kd6EA6CnHamlBoMFtD",
+            "path": "textures\\blocks\\vomit_block.png"
+        },
+        {
+            "key": "Y4DVI6nTyU4k6Wfc5y7rvdzqQG8La66m",
+            "path": "textures\\entity\\Morphian\\fox_morph.png"
+        },
+        {
+            "key": "zhQWreRJmf9OzAAYa6da5w4zZ7P36kLt",
+            "path": "textures\\entity\\Walkman\\boogie_bomb.png"
+        },
+        {
+            "key": "tP8sPWLHSVmrLch134kHzwZbreY7nHOM",
+            "path": "textures\\entity\\aslepiaAmunition.png"
+        },
+        {
+            "key": "8Z2rJUOlFiJDiUXlTVPqzoia76cW81ae",
+            "path": "textures\\entity\\attachable\\custom\\ear_defenders.png"
+        },
+        {
+            "key": "MhmIdWsK3Mumuwn5JFNOfX7mNCc4Ym9q",
+            "path": "textures\\entity\\attachable\\custom\\fish_t.png"
+        },
+        {
+            "key": "WwZ8uwRN9YyCrKYes01b7bhbdNfYsAkZ",
+            "path": "textures\\entity\\attachable\\custom\\munition.png"
+        },
+        {
+            "key": "6NtiM98eb6V8vASk3Et22uizP66fwBjY",
+            "path": "textures\\entity\\attachable\\custom\\new.png"
+        },
+        {
+            "key": "FN2HRw28QqmFRvzHFNI6kv9Y2mGtxFMa",
+            "path": "textures\\entity\\attachable\\custom\\totem.png"
+        },
+        {
+            "key": "s5MIGvccgVwKB155CyfNcOHwDnDJdCtg",
+            "path": "textures\\entity\\attachable\\custom\\umbrella.png"
+        },
+        {
+            "key": "INHo2Viz6O5V3ACvpTXtqZOdVGLgttVi",
+            "path": "textures\\entity\\banana.png"
+        },
+        {
+            "key": "UOHHPo9kfTrRKu4AwGfTZcqrcXN15ZuI",
+            "path": "textures\\entity\\banana_particle.png"
+        },
+        {
+            "key": "FGtqlG8su2JMvwcbL1oKRybyT1BG7iQf",
+            "path": "textures\\entity\\bank_boy.png"
+        },
+        {
+            "key": "L2QqnGALJF0IJUJ6qJDxMqPcPoFqSwST",
+            "path": "textures\\entity\\bubble.png"
+        },
+        {
+            "key": "HjKxRWUnpHG6CRFAZPgqzkiDf5RdppmM",
+            "path": "textures\\entity\\cannon.png"
+        },
+        {
+            "key": "1nmX6pnsgd2ReghhFEhsQqDer8fKIZ7z",
+            "path": "textures\\entity\\fireball.png"
+        },
+        {
+            "key": "VZ61YDURCAqguKpRadLVtHhFOmxJ76xD",
+            "path": "textures\\entity\\note.png"
+        },
+        {
+            "key": "O145rkhi9y5Nc9gPTRR69eg8L32hzjEW",
+            "path": "textures\\entity\\oxitrap.png"
+        },
+        {
+            "key": "ib1Tzg6mHLiroYM1sIjtHIvrT90NmuZ8",
+            "path": "textures\\entity\\sheep_morph.png"
+        },
+        {
+            "key": "ODe22dg7BmovYLEsS7NqMcPvoRR91qfH",
+            "path": "textures\\entity\\shop_variants\\amaqhawe.png"
+        },
+        {
+            "key": "aGKrasCRXf7kzXbGGlRUYSyTyda1HZU9",
+            "path": "textures\\entity\\shop_variants\\atlar.png"
+        },
+        {
+            "key": "YA9CaBtfLKTFc1k81lC560pDw2Xi7vZf",
+            "path": "textures\\entity\\shop_variants\\dark_elf.png"
+        },
+        {
+            "key": "d7Ou3GVrIpqQne6W3hC0jnbbWcod2sbL",
+            "path": "textures\\entity\\shop_variants\\elf.png"
+        },
+        {
+            "key": "CGzQGSKdedbNxM8xLCpakYhNRtBLTFF9",
+            "path": "textures\\entity\\shop_variants\\ent.png"
+        },
+        {
+            "key": "UOpH8Mbmqm46Il2o8R94I0xKLpCHy6en",
+            "path": "textures\\entity\\shop_variants\\frieka.png"
+        },
+        {
+            "key": "aKJX6gP6PrO5VPSNWQvh6pyTe2i32K0y",
+            "path": "textures\\entity\\shop_variants\\histik.png"
+        },
+        {
+            "key": "72gLaxh4sY6FxRnD58FJdvC4wCQvxwF3",
+            "path": "textures\\entity\\shop_variants\\inferny.png"
+        },
+        {
+            "key": "cMKEScVg9p55EVcYhn2dmMFs4y8KHOr5",
+            "path": "textures\\entity\\shop_variants\\lesion.png"
+        },
+        {
+            "key": "5HCsZJMHCi5m0YqpoaL0XGhhn7cGwykm",
+            "path": "textures\\entity\\shop_variants\\morphian.png"
+        },
+        {
+            "key": "QOJPYdpYqmArezhd8aGqWqJHheuDapVC",
+            "path": "textures\\entity\\shop_variants\\skellig.png"
+        },
+        {
+            "key": "14kG7bvYAOWeX9BKqCSrZGh3g7Lw7gDF",
+            "path": "textures\\entity\\shop_variants\\walkman.png"
+        },
+        {
+            "key": "xsp2o1FuFUe9XR0yWa6iaB7V9UuXN6XI",
+            "path": "textures\\entity\\sucker.png"
+        },
+        {
+            "key": "SC6sxDc32QiyOmc2rIGY51o683fHFiBX",
+            "path": "textures\\entity\\trap.png"
+        },
+        {
+            "key": "P9HGtPFf5ORBeOC74gVX2PYqPmHnWsTi",
+            "path": "textures\\entity\\vendo.png"
+        },
+        {
+            "key": "aMf9RCTmEELr3DzrzGRlxJDWAycDhFIS",
+            "path": "textures\\entity\\wall.png"
+        },
+        {
+            "key": "xjyGGgVlTLuoohMda7kx2Spi3ZJFj6Bt",
+            "path": "textures\\entity\\water_bomb.png"
+        },
+        {
+            "key": "e89gN8hYQlmhGzerLwBwd65yfGhgdrcW",
+            "path": "textures\\flipbook_textures.json"
+        },
+        {
+            "key": "OClOJOi93yHud21rx2Lu6vzI6aG1kMiD",
+            "path": "textures\\item_texture.json"
+        },
+        {
+            "key": "BjadflNYu1mCcAha7QAem1q7zIfyVwqI",
+            "path": "textures\\items\\amaqhawe\\challenge.png"
+        },
+        {
+            "key": "DgUkaEsXMwh1lJCYlWsYj3sHo4LzBKO1",
+            "path": "textures\\items\\amaqhawe\\double.png"
+        },
+        {
+            "key": "AAL2xkXNaOecdDJImnEO47xUZjvonZcy",
+            "path": "textures\\items\\amaqhawe\\phase_shift.png"
+        },
+        {
+            "key": "x6Yp6FyCEXNX2uVjacc5AU7QIs9AqYtu",
+            "path": "textures\\items\\amaqhawe\\reverse.png"
+        },
+        {
+            "key": "6NdwLzw4P8bN3P4x3GIlwTnqTyevgw4P",
+            "path": "textures\\items\\atlar\\pulse.png"
+        },
+        {
+            "key": "aoisRkORxuu1Nb8pcZjCYbUa6dlUcX0s",
+            "path": "textures\\items\\atlar\\sucker.png"
+        },
+        {
+            "key": "bPHYj2pl3BEIzL1q13RVGWfYTtQJLmIu",
+            "path": "textures\\items\\blocked.png"
+        },
+        {
+            "key": "kJUpn7jSwU6IcHGkOLttM6v3zcUYMvfb",
+            "path": "textures\\items\\bossEvent\\scrap.png"
+        },
+        {
+            "key": "g4VscxwZQp1tkW4LCpwasmP3gyxPc8e2",
+            "path": "textures\\items\\clump_of_progression.png"
+        },
+        {
+            "key": "Vi6t1B1T6WVUpR6roaWWXZhdldKpB2qd",
+            "path": "textures\\items\\coins.png"
+        },
+        {
+            "key": "hAIfTGrXsDckAnJLshS1HQgt1ZoOp85C",
+            "path": "textures\\items\\custom\\aslepia.png"
+        },
+        {
+            "key": "pL4TvT7kN3rsDsR9zKztvGcg6o7LBfGY",
+            "path": "textures\\items\\custom\\axe.png"
+        },
+        {
+            "key": "m7Tc5tGgUXcI5bo15GOC6UzJ61XuDrN5",
+            "path": "textures\\items\\custom\\banana_bomb.png"
+        },
+        {
+            "key": "5pZTEy3mWB1MJ0Wlg6mvau0MR7G5ck4L",
+            "path": "textures\\items\\custom\\bank_boy.png"
+        },
+        {
+            "key": "7Ed4evvBBfocfKwhf09jgsYtPfNQKx1f",
+            "path": "textures\\items\\custom\\bola_closed.png"
+        },
+        {
+            "key": "IF3S9O01qITLQSRu1pQO5CWJTQXaPcef",
+            "path": "textures\\items\\custom\\bola_open.png"
+        },
+        {
+            "key": "WqG1qadPO3yqWBCoazmL4gEpYANpvchj",
+            "path": "textures\\items\\custom\\bombs.png"
+        },
+        {
+            "key": "hha5C86nSCSw0CfVoDRsEjs3yafvkqsb",
+            "path": "textures\\items\\custom\\bubble_blower.png"
+        },
+        {
+            "key": "TseBCJJCZKA4r4b17B2VkhXJSy9YPJTL",
+            "path": "textures\\items\\custom\\bunker_buster.png"
+        },
+        {
+            "key": "gjXdLvrq2cd30gnOE9JQMjqprdA9mKDs",
+            "path": "textures\\items\\custom\\cannon.png"
+        },
+        {
+            "key": "gwZ4v7ni5YOO1mDVN7f54fSPvbfPKV0W",
+            "path": "textures\\items\\custom\\cannon_ball_fire.png"
+        },
+        {
+            "key": "m0mkQ2xjrg495l7KAonfKYtl9cCkiHoS",
+            "path": "textures\\items\\custom\\cannon_ball_water.png"
+        },
+        {
+            "key": "tRWK8XJs3umqCX36Ksq3yzHTx4VdhOd8",
+            "path": "textures\\items\\custom\\ear_defenders.png"
+        },
+        {
+            "key": "7QqPnBUbhqta3usWytq2k3nUQpfGCiyr",
+            "path": "textures\\items\\custom\\fire_bomb.png"
+        },
+        {
+            "key": "9dRhUvyhsZWjXMVo5LB325GxpSPd2Myj",
+            "path": "textures\\items\\custom\\fish_t.png"
+        },
+        {
+            "key": "Ql2qyLOVv66ivmyiN5ZM76WhiiLnVc0g",
+            "path": "textures\\items\\custom\\gym.png"
+        },
+        {
+            "key": "ioOwl9lic0kPGxquj0M2GK0jIgQ9oekr",
+            "path": "textures\\items\\custom\\heavy_duty_cannon_ball.png"
+        },
+        {
+            "key": "uyv2brblJ4BAWcnfiRUbzQIm53DqMdc3",
+            "path": "textures\\items\\custom\\hoe.png"
+        },
+        {
+            "key": "Y42OHZyQqjsEjxILvgFUioL6bwebAsNJ",
+            "path": "textures\\items\\custom\\hook.png"
+        },
+        {
+            "key": "D66QfsT9N6tcnkcti51F8eYxlqTeVHa7",
+            "path": "textures\\items\\custom\\kinetic_rebound.png"
+        },
+        {
+            "key": "N8mqZ4SpeJFRJWXYJsIirUzs1PhbF00r",
+            "path": "textures\\items\\custom\\marshmelter.png"
+        },
+        {
+            "key": "C3gW44O9fXdra5lXtDqlrOgx4Zjj5BnZ",
+            "path": "textures\\items\\custom\\munition.png"
+        },
+        {
+            "key": "LMPtUBnNyYS4SQhy3SVvLdIx1KV9NKxT",
+            "path": "textures\\items\\custom\\mushroom.png"
+        },
+        {
+            "key": "IYDGU8WPhbxpJk9YVOd9kRoj8hMLNWoc",
+            "path": "textures\\items\\custom\\new.png"
+        },
+        {
+            "key": "4o0z8RVcrUHNFuAAfTm9xhPexDHfwQWs",
+            "path": "textures\\items\\custom\\pickaxe.png"
+        },
+        {
+            "key": "gsYGCHXyDkVzCIs8BjceHmXn8uJ9kiTs",
+            "path": "textures\\items\\custom\\prisma_blade.png"
+        },
+        {
+            "key": "v1OYLVj58J7QxI9OS6R2nXvZQEOWnD36",
+            "path": "textures\\items\\custom\\radioactive_waste.png"
+        },
+        {
+            "key": "wWMUvV1HKy90oH1oKDfHBb8ikx2xa1lZ",
+            "path": "textures\\items\\custom\\riftinator.png"
+        },
+        {
+            "key": "skMaQ7SI82furKi5aZ8QImE4R4ili1hc",
+            "path": "textures\\items\\custom\\septic_nade.png"
+        },
+        {
+            "key": "sNVyCo1g0C9zmdSsTwv6kxr0zXBg8kR6",
+            "path": "textures\\items\\custom\\shadows.png"
+        },
+        {
+            "key": "3Vym8n8oL9BqpplFGHcHYxuxJPkBwhEo",
+            "path": "textures\\items\\custom\\shovel.png"
+        },
+        {
+            "key": "rdcxS4X7qtMXJpHj1ePnMtt5VLnokIwA",
+            "path": "textures\\items\\custom\\totem.png"
+        },
+        {
+            "key": "GTNmqFqqWfnJbXUljOzFAv48HtLwEgr4",
+            "path": "textures\\items\\custom\\trap.png"
+        },
+        {
+            "key": "9U13pPneFa92rVZhKcUFAkbRfvJqAs51",
+            "path": "textures\\items\\custom\\trash_launcher.png"
+        },
+        {
+            "key": "qlkQOnQWcE1oeCXYeSiOHp5nh1Cr2i1u",
+            "path": "textures\\items\\custom\\true_totem.png"
+        },
+        {
+            "key": "B3Zfyud7CDZRtgfSprWesnmHrm8THRL6",
+            "path": "textures\\items\\custom\\umbrella.png"
+        },
+        {
+            "key": "JWRCEQ31GUJogesp6FozrsFGTSjTQLnn",
+            "path": "textures\\items\\custom\\void_stone.png"
+        },
+        {
+            "key": "Nt203vosAxbpKn16JLPJezSkS0Wps7z2",
+            "path": "textures\\items\\custom\\water_bomb.png"
+        },
+        {
+            "key": "Xlz4R4QPIRijy1xC8chl15xIrCs0MRuJ",
+            "path": "textures\\items\\custom\\water_cannon.png"
+        },
+        {
+            "key": "PoxDXzUQXYtvJUc7dIhIo4WNqgfkJdxT",
+            "path": "textures\\items\\custom\\wisdom_totem.png"
+        },
+        {
+            "key": "kZJHgW9H96GCK94oAMUq1fVqMBnoibMQ",
+            "path": "textures\\items\\dark_elf\\explode.png"
+        },
+        {
+            "key": "47cY6XlJ9a3xNq3VpxrQ9nSlGrIwNMzX",
+            "path": "textures\\items\\dark_elf\\fangs.png"
+        },
+        {
+            "key": "U39JJ7mowmxok1x0PP5Jdj7BqeexK2FG",
+            "path": "textures\\items\\dark_elf\\grave.png"
+        },
+        {
+            "key": "oBogETLY3PNBkglo08ITxwvtepOSnOpY",
+            "path": "textures\\items\\dark_elf\\leech.png"
+        },
+        {
+            "key": "dTAIkvesqkxpd5QoOyffW8Nv1VoTRkU0",
+            "path": "textures\\items\\dark_elf\\levitate.png"
+        },
+        {
+            "key": "6PxgkblxbtMiMM4IVDLGcTsUZlgGsc4D",
+            "path": "textures\\items\\default.png"
+        },
+        {
+            "key": "HeOwvkOnrhbR9FE8LO9kjdPwQARLQxCU",
+            "path": "textures\\items\\elf\\angel.png"
+        },
+        {
+            "key": "HjA4f9NwbxxKBuzxCVD4aEclOHR5qOLC",
+            "path": "textures\\items\\elf\\green_shield.png"
+        },
+        {
+            "key": "m4gIH84tguXqWOeZ7Oflppvm6kUq9DI1",
+            "path": "textures\\items\\elf\\heal.png"
+        },
+        {
+            "key": "HUVwRL4BP0w4yyuHUeYifCKyDADfUZwM",
+            "path": "textures\\items\\elf\\saturation.png"
+        },
+        {
+            "key": "ktxOUPXVxY78Cazjfc6G0rhJmPfrltyA",
+            "path": "textures\\items\\elf\\sonic_boot.png"
+        },
+        {
+            "key": "LjrfhhJbyOFAWOD2ah78lisfa6PsmZ6F",
+            "path": "textures\\items\\elf\\wall.png"
+        },
+        {
+            "key": "50tCS46ZhLgyh4nYCfJDF9Cq8CA44wuI",
+            "path": "textures\\items\\ent\\grounded.png"
+        },
+        {
+            "key": "H6eRvMr6PHM8AF5dheHwdwzPLNZ9zblW",
+            "path": "textures\\items\\ent\\harden.png"
+        },
+        {
+            "key": "dcvGwnK3vYjJ3MlluYrCSmFaaTv2QhwI",
+            "path": "textures\\items\\ent\\root.png"
+        },
+        {
+            "key": "3FIgesRoAyQr6kTKj21mIZTqm9DQOm3w",
+            "path": "textures\\items\\ent\\tree_of_life.png"
+        },
+        {
+            "key": "ZT6xpsm7rosCoDwaefmlROi2m9cckywN",
+            "path": "textures\\items\\externalItems\\Atlar\\wave_rumbler.png"
+        },
+        {
+            "key": "yXFdU1jB2QVJXjjD0PdtzEG3P8CTqFz0",
+            "path": "textures\\items\\externalItems\\DarkElf\\gravity_bomb.png"
+        },
+        {
+            "key": "UatRNpdglK9UYNmNgFzoehbF5bdZDvHu",
+            "path": "textures\\items\\externalItems\\DarkElf\\soul_taker.png"
+        },
+        {
+            "key": "mXKxrmiriPx3wNyd8egl0pbKw7kO0wlA",
+            "path": "textures\\items\\externalItems\\Ent\\ivy_swagger_1.png"
+        },
+        {
+            "key": "n6LoaoOxBMpWJ00Wz0eLoP5k2oA2Vgcm",
+            "path": "textures\\items\\externalItems\\Ent\\ivy_swagger_2.png"
+        },
+        {
+            "key": "93QGJF1ugpmoWHyZIbKc6zNAMTQVSlYc",
+            "path": "textures\\items\\externalItems\\Ent\\ivy_swagger_3.png"
+        },
+        {
+            "key": "kEIO3Lik24R0BYPtcoOrYxwjGlzqtKL5",
+            "path": "textures\\items\\externalItems\\Histik\\elastic_mixture.png"
+        },
+        {
+            "key": "Dg3EaYwl7impG2ZIwBwrFhdiaM5zEvAG",
+            "path": "textures\\items\\externalItems\\Morphian\\bandicoot_boots.png"
+        },
+        {
+            "key": "erWaO8izYfRXzujMWlvsx3QajBRmaA5q",
+            "path": "textures\\items\\externalItems\\Morphian\\cheetah_leggings.png"
+        },
+        {
+            "key": "1o45jEtrpHj90YzDHEH9Czcb1rlKLpGV",
+            "path": "textures\\items\\externalItems\\Morphian\\cuttlefish_chestplate.png"
+        },
+        {
+            "key": "vcWAXwI8mkukHwvpDYBVDsDjU74Vn8hH",
+            "path": "textures\\items\\externalItems\\Morphian\\ram_helmet.png"
+        },
+        {
+            "key": "6zTLrtaPYRF4DapyMWxuSejYTg5r55iB",
+            "path": "textures\\items\\externalItems\\Skellig\\weather_vein.png"
+        },
+        {
+            "key": "cpTHnDkiFA62IP2XBZSW0ZabR4zqxrVt",
+            "path": "textures\\items\\externalItems\\aslepia\\aslepia_pulling_0.png"
+        },
+        {
+            "key": "98TiPyq4xsrERPCM1V1bgXbOvFuxZllM",
+            "path": "textures\\items\\externalItems\\aslepia\\aslepia_pulling_1.png"
+        },
+        {
+            "key": "nnjMaXnHlXWMe3B2AdBtfVfLHpSwzqro",
+            "path": "textures\\items\\externalItems\\aslepia\\aslepia_pulling_2.png"
+        },
+        {
+            "key": "RCvhN6A9vNxU4LVlxVbBtyDNYZQv1ItL",
+            "path": "textures\\items\\externalItems\\aslepia\\aslepia_standby.png"
+        },
+        {
+            "key": "MQYetv9YjYFgrI2patQEdcnXAk2PhrgT",
+            "path": "textures\\items\\frieka\\burrow.png"
+        },
+        {
+            "key": "Mpg8Jf13WZegXNQB1RDc7B4kTgMMtE51",
+            "path": "textures\\items\\frieka\\drill.png"
+        },
+        {
+            "key": "3UN74AlpD2VxN5SmAjJi0L3aO5lx5F8I",
+            "path": "textures\\items\\ghoul\\flesh_atlar.png"
+        },
+        {
+            "key": "olr3CKIWPfkbo19DisH0gus5wYukebTp",
+            "path": "textures\\items\\ghoul\\flesh_dark_elf.png"
+        },
+        {
+            "key": "dcuVWqNxgRIIdbZx5S6WgB1Z2CDobJI9",
+            "path": "textures\\items\\ghoul\\flesh_elf.png"
+        },
+        {
+            "key": "9WpnaZ5LR7mDDrmmbrq06M9NZPncczcV",
+            "path": "textures\\items\\ghoul\\flesh_histik.png"
+        },
+        {
+            "key": "hF3txVjmgx92osWjujeiFiYgg9mK8GD3",
+            "path": "textures\\items\\ghoul\\flesh_inferny.png"
+        },
+        {
+            "key": "okgmyYQ9vNXl16x8VeP44gdSyq7Ne7mn",
+            "path": "textures\\items\\ghoul\\flesh_lesion.png"
+        },
+        {
+            "key": "mpqxnCvQYa0cnHBDLNWrPFlbOKQZEv7G",
+            "path": "textures\\items\\ghoul\\flesh_morphian.png"
+        },
+        {
+            "key": "k7AwvTI88EPUEzU5ZEmcbMOnhveMaWQT",
+            "path": "textures\\items\\ghoul\\flesh_skellig.png"
+        },
+        {
+            "key": "rxPyZqDxMUrSisz3CzNeOx61WZKgw3dL",
+            "path": "textures\\items\\ghoul\\screech.png"
+        },
+        {
+            "key": "CWADx0hntlQYUXLaYoOMObWUlTKLBiAt",
+            "path": "textures\\items\\histik\\cloak.png"
+        },
+        {
+            "key": "0nNmUXWfdLhI1CbFWEr9MNFZgH5d4h7T",
+            "path": "textures\\items\\histik\\down.png"
+        },
+        {
+            "key": "0kbC2pyBWEQNWzpIYk3kNe3YHtR1MTi4",
+            "path": "textures\\items\\histik\\invis.png"
+        },
+        {
+            "key": "GpwXHkmBzy7AtMnYqKPKaBX4zX1Ag1k7",
+            "path": "textures\\items\\histik\\steal.png"
+        },
+        {
+            "key": "97ysqoZ2iu8MSW37P6n3AQS1jBuGkMaU",
+            "path": "textures\\items\\histik\\trash.png"
+        },
+        {
+            "key": "Nh89PmNRXc7Xl09am3Xrtykhm5gKcDz4",
+            "path": "textures\\items\\histik\\up.png"
+        },
+        {
+            "key": "Ouj1eEwfJCoYlQOHPRHmnFbl2Vn9eE6N",
+            "path": "textures\\items\\histik\\up_down.png"
+        },
+        {
+            "key": "AWd7ZlKIgA9ALoXLALLvIP5oZGs64viN",
+            "path": "textures\\items\\inferny\\super_nova.png"
+        },
+        {
+            "key": "huLupyLtENwUd2UZy2MKsHFggk6gRbMk",
+            "path": "textures\\items\\land_claim\\battery.png"
+        },
+        {
+            "key": "p5EvCRaEXU2xkTYlpHHSus67Qq7aiT52",
+            "path": "textures\\items\\land_claim\\potato_battery.png"
+        },
+        {
+            "key": "UslG8tCSdGKeReXfddTaRwWt1J74CNbY",
+            "path": "textures\\items\\lesion\\ping.png"
+        },
+        {
+            "key": "PJ1NlSnPAApTo2AF8dRTN75xGn5IFmrn",
+            "path": "textures\\items\\lesion\\trap.png"
+        },
+        {
+            "key": "lI7i2msQOPit42NI1225zB61Z9ZMQQbH",
+            "path": "textures\\items\\lesion\\vomit.png"
+        },
+        {
+            "key": "4PZgQGPHcrVFKFyHBft6dPQnkizjZ7MW",
+            "path": "textures\\items\\morphian\\morph.png"
+        },
+        {
+            "key": "GNMbHL68surjrjXAXzL8Cg1uIY14NiZn",
+            "path": "textures\\items\\nexus.png"
+        },
+        {
+            "key": "QCXxpP3H5LkkXrLMvlJGpc4K1YUvsMtX",
+            "path": "textures\\items\\secrets\\dragon_horn.png"
+        },
+        {
+            "key": "N3wAgWeg9VzO5iBHxGE3rodr5mtuAOdb",
+            "path": "textures\\items\\secrets\\necron_the_fish.png"
+        },
+        {
+            "key": "AcQbBHrTEBxdyY3wLnNmQ6PBnjVgDUyd",
+            "path": "textures\\items\\secrets\\tribute.png"
+        },
+        {
+            "key": "aFmU7xGDB4vEgfFh1XNWMoPONgWGf8jM",
+            "path": "textures\\items\\selector.png"
+        },
+        {
+            "key": "Y39d7MYHQsG7O9dTA8vhbEBDcagvBu76",
+            "path": "textures\\items\\skellig\\airstrike.png"
+        },
+        {
+            "key": "l20TEoItWGWPkjfta74QdeXhu3V41mUq",
+            "path": "textures\\items\\skellig\\fireworks_empty.png"
+        },
+        {
+            "key": "Uw8m2sTSwMysO5W4oFnoM1K1iie4gTEP",
+            "path": "textures\\items\\skellig\\grab.png"
+        },
+        {
+            "key": "5hfcaUSeHtJJuXt2jeAhuYLqmyJIVuAr",
+            "path": "textures\\items\\skellig\\lightning.png"
+        },
+        {
+            "key": "wRfAD1xA7pe6vvFZK0Fw6Des4d7hm86R",
+            "path": "textures\\items\\skellig\\wind.png"
+        },
+        {
+            "key": "44gTvYBLvAbmTsPlLpbHipcwADo99rdI",
+            "path": "textures\\items\\vending_bot.png"
+        },
+        {
+            "key": "Jg0qB3nd7JiecbzUyRxtxGrycIG0VidZ",
+            "path": "textures\\items\\walkman\\boogie_bomb.png"
+        },
+        {
+            "key": "8IZtaHVGjHfzYgZRf7DdiFp8zFmRrrfm",
+            "path": "textures\\items\\walkman\\boombox.png"
+        },
+        {
+            "key": "0jHpoEcpx6THqjwoYA5DBY4maiFtS7HH",
+            "path": "textures\\items\\walkman\\megaphon.png"
+        },
+        {
+            "key": "bm5CGrZjSIERWOnVDoGCT0skghJWFlUV",
+            "path": "textures\\items\\walkman\\tape.png"
+        },
+        {
+            "key": "jZAn3dGi7J6o7q1dNZWmRugJiX3yY2pU",
+            "path": "textures\\models\\amaqhawe\\shades.png"
+        },
+        {
+            "key": "tp7RBxuFLoxJWujcpcPbRX42ky51GgS2",
+            "path": "textures\\models\\amaqhawe\\voidling.png"
+        },
+        {
+            "key": "FHcDHGvsz7BCP5k2BrT3ohi8Fu5cb25k",
+            "path": "textures\\models\\ent\\roots.png"
+        },
+        {
+            "key": "DnsiI6Yk1efkHWDubsvFC9HiyxyylIkv",
+            "path": "textures\\models\\histik\\elastic_cauldron.png"
+        },
+        {
+            "key": "oAH2v9FjKbBL9P4BaE5AZadlLujhASR0",
+            "path": "textures\\models\\histik\\hook.png"
+        },
+        {
+            "key": "UBMS6QrsloJB9woQZRpSGcE16YKYHyo1",
+            "path": "textures\\models\\morphian\\bandicoot_boots.png"
+        },
+        {
+            "key": "OO1nkcqvGGz1adDxHdACPBx5tGGONP7O",
+            "path": "textures\\models\\morphian\\cheetah_leggings.png"
+        },
+        {
+            "key": "HNoYjskedp5eVaqXipFT8Xa23bUFqJKb",
+            "path": "textures\\models\\morphian\\chestplate_variants\\orange.png"
+        },
+        {
+            "key": "YZehWF9rMeyHLv2Y7cA2uRAo0Soy8P75",
+            "path": "textures\\models\\morphian\\chestplate_variants\\purple.png"
+        },
+        {
+            "key": "BQbLuYZuByVxrbEBNRlHFuulfzNw8ey4",
+            "path": "textures\\models\\morphian\\chestplate_variants\\red.png"
+        },
+        {
+            "key": "EX5QYYEGXOtX7uRaCofgRstsuwPpMMRm",
+            "path": "textures\\models\\morphian\\chestplate_variants\\red_orange.png"
+        },
+        {
+            "key": "07p6cQspy73FAcpq0qpKb2bRHX9jIh5n",
+            "path": "textures\\models\\morphian\\chestplate_variants\\red_purple.png"
+        },
+        {
+            "key": "SiFhuXoIbInSWicRx8Zu46JYhPWlqqMg",
+            "path": "textures\\models\\morphian\\chestplate_variants\\salad.png"
+        },
+        {
+            "key": "iD4nwK12SgVue3BzUWirPt1F1oGYVtPp",
+            "path": "textures\\models\\morphian\\chestplate_variants\\yellow.png"
+        },
+        {
+            "key": "KkmwdOXkkMYqSPL1kxpn6hBLGs4lhjib",
+            "path": "textures\\models\\morphian\\chestplate_variants\\yellow_orange.png"
+        },
+        {
+            "key": "gnYIvFX9ke3LkHQ1UBXeFdBSlxkahwTX",
+            "path": "textures\\models\\morphian\\ran_helmet.png"
+        },
+        {
+            "key": "lgyNBPw9Ssyk7wlE1Jgy7uGzMA3F7kgC",
+            "path": "textures\\models\\walkman\\boombox.png"
+        },
+        {
+            "key": "dL0QtIQdsM3DA3t3ORvVj6OdcutVDX9y",
+            "path": "textures\\models\\walkman\\disco_ball.png"
+        },
+        {
+            "key": "xFdbHaR5y2fs4jmSFLFCpGTC5xWZsHI1",
+            "path": "textures\\models\\wearable\\Atlar\\fin.png"
+        },
+        {
+            "key": "ueKN6A91GdqSsRv7G5Bz1jNaeB4CA2jI",
+            "path": "textures\\models\\wearable\\Dark Elf\\horns.png"
+        },
+        {
+            "key": "AdY9nhO2SjNR6OD77egtsMWvCfGVdrjY",
+            "path": "textures\\models\\wearable\\Elf\\ears.png"
+        },
+        {
+            "key": "VHunsCosjNNudDZdspu2d7SSAmwWB5aX",
+            "path": "textures\\models\\wearable\\Ent\\dead_tree.png"
+        },
+        {
+            "key": "IXjlELD4a0GxguYdBw8V4jSBuoMfxriN",
+            "path": "textures\\models\\wearable\\Ent\\sakura.png"
+        },
+        {
+            "key": "oGdX7EIONJbWHYIbBgBu5tI5Img1dKcU",
+            "path": "textures\\models\\wearable\\Ent\\spruce_tree.png"
+        },
+        {
+            "key": "KhSzbW1z88IViWvWvgzlpcwXOTArP03L",
+            "path": "textures\\models\\wearable\\Ent\\tree.png"
+        },
+        {
+            "key": "kkEWyUg40BeCOr93S6kcSu8CGnKxwl5y",
+            "path": "textures\\models\\wearable\\Frieka\\claws.png"
+        },
+        {
+            "key": "vvaNGEiWbeIBXwY9gPbjvv56BADNnCJi",
+            "path": "textures\\models\\wearable\\Ghoul\\flesh.png"
+        },
+        {
+            "key": "8WlnUErgSHkvK70XKrfJtAuUvsNdRIwK",
+            "path": "textures\\models\\wearable\\Ghoul\\parasite.png"
+        },
+        {
+            "key": "BumF6s2h2OwGu8HZ1WqJ6ByT0tVadsJh",
+            "path": "textures\\models\\wearable\\Ghoul\\spine.png"
+        },
+        {
+            "key": "AqW6a665Q2lvrFoaKtsU29G9VQGtwJW0",
+            "path": "textures\\models\\wearable\\Morphian\\morphian_tail.png"
+        },
+        {
+            "key": "4WctSKHroW7hIWQ1e7lw6Q4pSDhrJ1vN",
+            "path": "textures\\models\\wearable\\Walkman\\speaker.png"
+        },
+        {
+            "key": "AgIuPZgfYxO9i67By9Z3NvVEaJuGHJeV",
+            "path": "textures\\particles\\lightbeam.png"
+        },
+        {
+            "key": "JfvL5Dc1gBTkBoGBEBsmrteEgcUGnXQU",
+            "path": "textures\\terrain_texture.json"
+        },
+        {
+            "key": "irNQodrApyKn3Tz8dpACpdmfEcImaAWe",
+            "path": "textures\\ui\\bars\\dark_elf\\fullMana.png"
+        },
+        {
+            "key": "OSQdoyfE19BeispymZUcxwK3rqfiHkqg",
+            "path": "textures\\ui\\bars\\dark_elf\\halfMana.png"
+        },
+        {
+            "key": "by1ZM8lStbCVlQItCYBdlrT9yzsJu1bK",
+            "path": "textures\\ui\\bars\\elf\\emptyMana.png"
+        },
+        {
+            "key": "YOyopKDmOn67QPLMAFsY77s67VLCce92",
+            "path": "textures\\ui\\bars\\elf\\fullMana.png"
+        },
+        {
+            "key": "of5Vznf6XCyh6jQVjOxw3X9YddNm99Cb",
+            "path": "textures\\ui\\bars\\elf\\halfMana.png"
+        },
+        {
+            "key": "B3t0UQ7c0cMkc8Qim2egXwN7HzzrwS5m",
+            "path": "textures\\ui\\bars\\walkman\\emptyNote.png"
+        },
+        {
+            "key": "wTRyLCm60Ry0dTWnKhvD1zkuC6z9FpZF",
+            "path": "textures\\ui\\bars\\walkman\\fullNote.png"
+        },
+        {
+            "key": "mGIznQU2W0HdbtvwTouY4TIt05RlusQV",
+            "path": "textures\\ui\\bars\\walkman\\halfNote.png"
+        },
+        {
+            "key": "IWZqWeEzqWrd8aO0SmzOg4f84m2Vr2ev",
+            "path": "textures\\ui\\bars\\walkman\\sheet.png"
+        },
+        {
+            "key": "oPSdpEs7EBi4IkQ2HY6KJZYsvx9IHojo",
+            "path": "textures\\ui\\chunk_claim\\claimed.png"
+        },
+        {
+            "key": "XXDwieyY0qV3VqgmeIONaIzzyCTPiwOI",
+            "path": "textures\\ui\\chunk_claim\\claimed_middle.png"
+        },
+        {
+            "key": "IZKCdOaGNeZIXA61r3QzQZDWwlvAfUWL",
+            "path": "textures\\ui\\chunk_claim\\close.png"
+        },
+        {
+            "key": "H3tANR18fZO5WESj4fVrYZw6thSvmmKI",
+            "path": "textures\\ui\\chunk_claim\\close_hover.png"
+        },
+        {
+            "key": "8hzyRsg9OEnXEYghDIf5cMFMkDPx5oq7",
+            "path": "textures\\ui\\chunk_claim\\unclaimed.png"
+        },
+        {
+            "key": "73t0zZKF7mauUcH5ffbrZxq420bD7r2C",
+            "path": "textures\\ui\\chunk_claim\\unclaimed_middle.png"
+        },
+        {
+            "key": "REPmx5meJac1fcB05x4knFeWV2YvyvFm",
+            "path": "textures\\ui\\classIcons\\amaqhawe.png"
+        },
+        {
+            "key": "pjFcvhHCyPUTG50P2sBsnoRqPQQzt8WG",
+            "path": "textures\\ui\\classIcons\\amaqhawe_old.png"
+        },
+        {
+            "key": "FGR6yDyAJDluSFiHC71oZCHXpU5fn0sc",
+            "path": "textures\\ui\\classIcons\\atlar.png"
+        },
+        {
+            "key": "rOeFjT6lW4n6K8dsX9mts3LOo51t2FZ3",
+            "path": "textures\\ui\\classIcons\\atlar_old.png"
+        },
+        {
+            "key": "gA447sD1efeYoqL0374fFr2OxOr5H232",
+            "path": "textures\\ui\\classIcons\\dark_elf.png"
+        },
+        {
+            "key": "f2TRbnZeTlQTDUctkbeL5guGSuO3WKFF",
+            "path": "textures\\ui\\classIcons\\dark_elf_old.png"
+        },
+        {
+            "key": "kIbJkQeUOBisdNATh15qRdxfIshninys",
+            "path": "textures\\ui\\classIcons\\elf.png"
+        },
+        {
+            "key": "FoDuf1pBDECMij5OYOapjpf0PWjzehgC",
+            "path": "textures\\ui\\classIcons\\elf_old.png"
+        },
+        {
+            "key": "egwik1QSg4q15x2Q3B1wDOg6TZ4nOS5W",
+            "path": "textures\\ui\\classIcons\\ent.png"
+        },
+        {
+            "key": "Bm3bfRu8MDeK8dTOO4RaEFP8Qjfxhquj",
+            "path": "textures\\ui\\classIcons\\ent_old.png"
+        },
+        {
+            "key": "xBz6Vxg0M4eHXPWwuaRwfLBCeVMT0dLw",
+            "path": "textures\\ui\\classIcons\\frieka.png"
+        },
+        {
+            "key": "78j0wEN1G0FcSlG6Kc1XMHDnrAsFXNg1",
+            "path": "textures\\ui\\classIcons\\frieka_old.png"
+        },
+        {
+            "key": "GbYvxzTl8gWiNYT8h1gg2PhYhgzl83Qw",
+            "path": "textures\\ui\\classIcons\\ghoul.png"
+        },
+        {
+            "key": "XR9B2BCkJtDPlxm8qKfutoU02FTB0dEv",
+            "path": "textures\\ui\\classIcons\\ghoul_old.png"
+        },
+        {
+            "key": "88SOYD4CTcOmuOWb1FrifSslaJL89pK5",
+            "path": "textures\\ui\\classIcons\\histik.png"
+        },
+        {
+            "key": "yalY8fGsSjVM8b7qiHvXz7yb5ArxLU3u",
+            "path": "textures\\ui\\classIcons\\histik_old.png"
+        },
+        {
+            "key": "dqeDBHjsQeaNMqD6mZSbQcseTNo8Zuei",
+            "path": "textures\\ui\\classIcons\\inferny.png"
+        },
+        {
+            "key": "OAbBDBRgrMJBWasSsuZYn6sRytxRcmt1",
+            "path": "textures\\ui\\classIcons\\inferny_old.png"
+        },
+        {
+            "key": "VfwbMjzn7YIyOvWAyE4Mu9fC00QccMkm",
+            "path": "textures\\ui\\classIcons\\leprechaun.png"
+        },
+        {
+            "key": "JKQ7WDadK9Ls0sHqAHqVPAmVSNVD4X3L",
+            "path": "textures\\ui\\classIcons\\lesion.png"
+        },
+        {
+            "key": "gyF0XfOrBNSVEAvagGHn0BL8ZL8xBToc",
+            "path": "textures\\ui\\classIcons\\lesion_old.png"
+        },
+        {
+            "key": "p1P7FCUdyJwXC0DnMIIVsafWtiTnyvy7",
+            "path": "textures\\ui\\classIcons\\morphian.png"
+        },
+        {
+            "key": "D6KzrNdShGoR8XyqxZMPivtrBvbyt6o8",
+            "path": "textures\\ui\\classIcons\\morphian_old.png"
+        },
+        {
+            "key": "tOCpT21UNoCA17IVtSTmr55xi5FtxQq5",
+            "path": "textures\\ui\\classIcons\\mutant.png"
+        },
+        {
+            "key": "nPIjlQ7HZKFgAkRsoda4wm96ANfBcjp0",
+            "path": "textures\\ui\\classIcons\\orc.png"
+        },
+        {
+            "key": "22axdMsVL1XawhiWS8pAOHEbYeuUCCPT",
+            "path": "textures\\ui\\classIcons\\quaker.png"
+        },
+        {
+            "key": "CDeEBrsom83HY6zWTMOUKKzZQWgDPfPe",
+            "path": "textures\\ui\\classIcons\\skellig.png"
+        },
+        {
+            "key": "xQZd6UDg5zklan7Y9VBPXWrF3GX0W5fU",
+            "path": "textures\\ui\\classIcons\\skellig_old.png"
+        },
+        {
+            "key": "PCvBXsWVcTIrOgaVIqG5hayxngXxylok",
+            "path": "textures\\ui\\classIcons\\walkman.png"
+        },
+        {
+            "key": "jYV956nENXO39dtRUPHVBN2apBL3Jqxa",
+            "path": "textures\\ui\\classIcons\\walkman_old.png"
+        },
+        {
+            "key": "sIcWF7xmgnWD6rn8LqrCkVGauOoCGGmv",
+            "path": "textures\\ui\\classIcons\\weeping_angel.png"
+        },
+        {
+            "key": "r19wB0T8fU1sItSMqhQZD3rLKdxCyqI9",
+            "path": "textures\\ui\\icons\\invite.png"
+        },
+        {
+            "key": "EhHMQRANs36SqT4OUjhVY2WwMPuPVVKa",
+            "path": "textures\\ui\\icons\\leave.png"
+        },
+        {
+            "key": "pXhkfGLSix77RSpZoirtVPQZgMh7E8jE",
+            "path": "textures\\ui\\icons\\transfer.png"
+        },
+        {
+            "key": "CSyPt85PvADCLfMKKlFV8oCqqOmy7m3U",
+            "path": "textures\\ui\\images\\bank_boy.png"
+        },
+        {
+            "key": "2K9gy9pZOTKfkHc4ioenVlwzwOBsqTrE",
+            "path": "textures\\ui\\ranks\\rank1.png"
+        },
+        {
+            "key": "ed0Gjhfu6K4hLRCAOsXqld624kb5hvZe",
+            "path": "textures\\ui\\ranks\\rank2.png"
+        },
+        {
+            "key": "eDL94uySM9iZdPfhQTDIIvRbuhMaHO0s",
+            "path": "textures\\ui\\ranks\\rank3.png"
+        },
+        {
+            "key": "ncEWtVd91w3Z0j4hSWgfh1NKOzQmDAqe",
+            "path": "textures\\ui\\ranks\\rank4.png"
+        },
+        {
+            "key": "5VTKrkUUqgLNlY01urXrHdwNZr3VKp18",
+            "path": "textures\\ui\\ranks\\rank5.png"
+        },
+        {
+            "key": "yW8pyTaKShWmEbQZrsU3Jm006M2oSspc",
+            "path": "textures\\ui\\sidebar\\discord.png"
+        },
+        {
+            "key": "VCwVYOLkaRST5nIjjGXqlHdks6QTw7n4",
+            "path": "textures\\ui\\top_right\\bg.json"
+        },
+        {
+            "key": "LucA4ruKGwHoj3wctJmT5hzRgJ416Ywy",
+            "path": "textures\\ui\\top_right\\bg.png"
+        },
+        {
+            "key": "RAHTnt2pVRoW8wvSNiu1KPOXuk5fcPMQ",
+            "path": "textures\\ui\\top_right\\bg_hover.json"
+        },
+        {
+            "key": "ndIR1D2KNRorlnZ4fRi6DdRGjCqBIUh2",
+            "path": "textures\\ui\\top_right\\bg_hover.png"
+        },
+        {
+            "key": "3vjaQU0eFS4iGv7Awk7d8cRzQ1JKtymk",
+            "path": "textures\\ui\\top_right\\bg_veteran.json"
+        },
+        {
+            "key": "r7FgqZHqswFFFeSoTr8iBhXOEQSomHX1",
+            "path": "textures\\ui\\top_right\\bg_veteran.png"
+        },
+        {
+            "key": "SHM3pDO1lPi4YsGaW9xtAI73uaZwLRo3",
+            "path": "textures\\ui\\top_right\\bg_veteran_hover.json"
+        },
+        {
+            "key": "zPKsfXmRuZ8KHMcg8nEGDZzuSKjofhXw",
+            "path": "textures\\ui\\top_right\\bg_veteran_hover.png"
+        },
+        {
+            "key": "2nJGVClJcYFQz2ZAHqiaUrsrOy4RZYmW",
+            "path": "ui\\_ui_defs.json"
+        },
+        {
+            "key": "8Pw1WNX5E7ylAnVY7zRBtqoHL5uzQWb2",
+            "path": "ui\\classes_hud.json"
+        },
+        {
+            "key": "9qWth1RfXTRDbg1Ha1E2cJnavPiR9dGH",
+            "path": "ui\\custom_ui\\bankey_boy.json"
+        },
+        {
+            "key": "jfjQmw1nyVIbVWzlLDMkWSQ52NKeRftW",
+            "path": "ui\\custom_ui\\class_select.json"
+        },
+        {
+            "key": "4MHMWsAB7hPh57FRNcsxCpC5nU6B6LGe",
+            "path": "ui\\custom_ui\\grid_form.json"
+        },
+        {
+            "key": "1wBPYWFsOpL1y9WlPZgKodqntrH0f8C8",
+            "path": "ui\\custom_ui\\information.json"
+        },
+        {
+            "key": "SaJGGN4LZEa2qczXbqqLsQrdPNwzKvRB",
+            "path": "ui\\custom_ui\\land_claim.json"
+        },
+        {
+            "key": "heHAZ6NlrOP7hl22DSxrPn0w8yji0h63",
+            "path": "ui\\custom_ui\\leveling.json"
+        },
+        {
+            "key": "PhtqIfNTiq1aqoBUZCmBjPcifbMXjMoX",
+            "path": "ui\\custom_ui\\team_manage.json"
+        },
+        {
+            "key": "wi9TgexjvvBjCylf5Phggtgg1QySihHT",
+            "path": "ui\\hud_screen.json"
+        },
+        {
+            "key": "0DxMiCkCgM8H45QLl8viLID2xDvf5bdv",
+            "path": "ui\\pause_screen.json"
+        },
+        {
+            "key": "QzoHOEQGyhAGov33sHS5JHftoQMk12Oa",
+            "path": "ui\\server_form.json"
+        },
+        {
+            "key": "9V1ZfCoUzZNqP2xYTs2YhwvykA7e6hZc",
+            "path": "ui\\static_sidebar.json"
+        },
+        {
+            "key": "5DrWhOzzjWyqMAqQmGnCOXz0J3v1vnAg",
+            "path": "ui\\tf_common.json"
+        },
+        {
+            "key": "199ULk2ppWr7qSdncLJkHDU6iRBStDz5",
+            "path": "ui\\top_right_pannel.json"
+        },
+        {
+            "key": "PvzkLE38zZFYT1izbWX5ufZDvVS4RfKn",
+            "path": "ui\\walkman_hud.json"
+        }
+    ]
+}
