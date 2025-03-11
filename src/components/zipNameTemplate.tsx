@@ -36,13 +36,9 @@ export function OutputZipName() {
             />
             <TooltipProvider>
                 <Tooltip>
-                    <div className="flex gap-1">
-                        <p className="text-sm text-gray-500">You can use</p>
-                        <TooltipTrigger>
-                            <p className="text-sm text-gray-500 underline">formating codes</p>
-                        </TooltipTrigger>
-                        <p className="text-sm text-gray-500">to add dynamic values to the output name</p>
-                    </div>
+                    <p className="text-sm text-gray-500">
+                        You can use <TooltipTrigger><span className="underline">formating codes</span></TooltipTrigger> to add dynamic values to the output name
+                    </p>
                     <TooltipContent>
                         <ul>
                             <li><strong>%pack_name%</strong> - The name of the pack</li>
