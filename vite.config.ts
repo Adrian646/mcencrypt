@@ -8,13 +8,9 @@ const host = process.env.TAURI_DEV_HOST;
 
 // https://vitejs.dev/config/
 export default defineConfig(async () => ({
-    plugins: [react(), tailwindcss(), nodePolyfills({ include: ["crypto", "buffer", "util", "stream", "path"] })],
+    plugins: [react(), tailwindcss(), nodePolyfills({ include: ["crypto", "buffer", "util", "stream", "path", "vm"] })],
 
-    // Vite options tailored for Tauri development and only applied in `tauri dev` or `tauri build`
-    //
-    // 1. prevent vite from obscuring rust errors
     clearScreen: false,
-    // 2. tauri expects a fixed port, fail if that port is not available
     resolve: {
         alias: {
             "@": resolve(__dirname, "./src"),
