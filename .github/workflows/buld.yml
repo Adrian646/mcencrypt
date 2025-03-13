@@ -1,9 +1,10 @@
-name: 'publish'
+name: "publish"
 
 on:
+  workflow_dispatch:
   push:
     branches:
-      - release
+      - main
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -54,10 +55,10 @@ jobs:
         with:
           name: artifacts
           path: artifacts
-      - name: 'create release'
+      - name: "create release"
         uses: softprops/action-gh-release@master
         env:
-          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
         with:
           draft: false
           files: ./artifacts/**/*
