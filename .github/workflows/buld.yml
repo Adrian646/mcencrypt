@@ -40,7 +40,7 @@ jobs:
       - uses: JonasKruckenberg/tauri-build@v1
         id: tauri_build
 
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: artifacts
           path: "${{ join(fromJSON(steps.tauri_build.outputs.artifacts), '\n') }}"
