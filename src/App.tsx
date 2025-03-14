@@ -48,7 +48,7 @@ export default function App() {
         return () => {
             listener.then(x => x())
         }
-    })
+    }, [])
 
     switch (packState) {
         case "none":
