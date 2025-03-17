@@ -131,7 +131,7 @@ fn encrypt_from_path(
                     }));
 
                     zip.start_file(relative_path, options).unwrap();
-                    zip.write(&file_contents).unwrap();
+                    zip.write_all(&file_contents).unwrap();
 
                     continue;
                 }
@@ -147,7 +147,7 @@ fn encrypt_from_path(
                 }));
 
                 zip.start_file(relative_path, options).unwrap();
-                zip.write(&file_contents).unwrap();
+                zip.write_all(&file_contents).unwrap();
             }
             Err(err) => app.emit("error", err.to_string()).unwrap(),
         }
