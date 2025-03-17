@@ -40,7 +40,7 @@ fn generate_alphanumeric_key() -> Vec<u8> {
 
 type AESEncryptor = cfb8::Encryptor<Aes256>;
 
-#[tauri::command]
+#[tauri::command(async)]
 fn encrypt_from_path(
     app: AppHandle,
     path: &str,
