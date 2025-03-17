@@ -1,6 +1,6 @@
 [package]
 name = "mcencrypt"
-version = "0.1.1"
+version = "0.1.2"
 description = "Encrypt Minecraft Bedrock Resource Packs!"
 authors = ["Dingsel"]
 edition = "2024"
