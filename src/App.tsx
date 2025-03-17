@@ -120,7 +120,7 @@ export default function App() {
                     action: {
                         label: "Open Folder",
                         onClick: () => {
-                            revealItemInDir(outputFolder + "/pack.rust.zip")
+                            revealItemInDir(join(outputFolder, formatedZipName + ".zip"))
                         }
                     }
                 })
