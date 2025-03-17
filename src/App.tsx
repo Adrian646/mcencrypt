@@ -132,7 +132,7 @@ export default function App() {
     }
 
     return (
-        <div className="px-10 py-5 w-full h-full flex flex-col items-center justify-center gap-5">
+        <div className="px-10 py-5 w-full h-full flex flex-col items-center justify-center gap-10">
             {squareContent}
             <div className="flex gap-5">
                 <Button onClick={() => handleEncrypt()} className="w-32 cursor-pointer" disabled={packState !== "idle"}>
