@@ -13,7 +13,8 @@ const VERSION_BUFFER = Buffer.from([0x00, 0x00, 0x00, 0x00]);
 const EXCLUDED_PATTERNS = [
     "pack_icon.{png,jpg,jpeg}",
     "manifest.json",
-    "texts/**/*"
+    "texts/**/*",
+    "sounds/**/*"
 ]
 
 interface FileMeta {
