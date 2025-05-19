@@ -6,3 +6,4 @@ interface.\
 
 ![Main Window](./images/main_window.png)
 ![Settings Window](./images/settings_window.png)
+
