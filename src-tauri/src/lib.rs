@@ -57,6 +57,7 @@ fn encrypt_from_path(
         "manifest.json",
         "bug_pack_icon.{png,jpg}",
         "texts/**/*",
+        "sounds/**/*",
     ];
 
     let mut contents_json = json!({
